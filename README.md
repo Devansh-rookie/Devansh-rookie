@@ -17,9 +17,9 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-rookie/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh151005/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh-rookie)
-[![Email](https://img.shields.io/badge/Email-DC3545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh@example.com)
+[![Email](https://img.shields.io/badge/Email-DC3545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshdevansh1510@gmail.com)
 
 ---
 
