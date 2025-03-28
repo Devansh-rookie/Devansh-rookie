@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **[exciting full-stack projects](https://github.com/Devansh-rookie)**
 - 🌱 I’m currently learning **advanced system design and backend scaling**
 - 💬 Ask me about **Node.js, JavaScript, and system performance**
-- 📫 Reach me at **devansh@example.com** (Update this with your actual email)
+- 📫 Reach me at **devanshdevansh1510@example.com** (Update this with your actual email)
 
 ---
 
@@ -62,4 +62,3 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
