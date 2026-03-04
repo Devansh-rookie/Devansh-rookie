@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Devansh%20D%20🚀&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Math%20%26%20Computing&descAlignY=60"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Devansh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=60"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+high-performance+systems;Competitive+programming+%7C+Algorithm+design;Distributed+systems+enthusiast;Turning+ideas+into+scalable+software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+High+Performance+Systems;Competitive+Programmer;Distributed+Systems+Enthusiast;Turning+Ideas+Into+Scalable+Software"/>
 
 </div>
 
@@ -118,9 +120,9 @@ HTTP Protocol
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devansh-rookie&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devansh-rookie&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-rookie&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devansh-rookie&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
