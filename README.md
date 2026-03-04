@@ -1,73 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Devansh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Systems%20Thinker&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Devansh%20D%20🚀&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Math%20%26%20Computing&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Fast%2C+Scalable+Systems;Distributed+Computing+%7C+System+Design;Turning+Coffee+into+Clean+Architecture+%E2%98%95;Always+learning%2C+always+shipping." alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Devansh-rookie&label=Profile+Views&color=a855f7&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+high-performance+systems;Competitive+programming+%7C+Algorithm+design;Distributed+systems+enthusiast;Turning+ideas+into+scalable+software"/>
 
 </div>
 
 ---
 
-## `$ whoami`
-```typescript
+# 👨‍💻 About Me
+
+```ts
 const devansh = {
-  role:              "Backend Engineer",
-  location:          "India 🇮🇳",
-  focus:             ["Scalable Systems", "Distributed Computing", "System Design"],
-  currentlyLearning: ["Database Internals", "Cloud Architecture", "Kubernetes"],
-  funFact:           "I think in systems, dream in algorithms.",
+  education: "Mathematics & Computing @ NIT Kurukshetra",
+
+  interests: [
+    "Systems Engineering",
+    "Distributed Systems",
+    "Algorithms",
+    "Computational Mathematics",
+    "Backend Architecture"
+  ],
+
+  currentlyLearning: [
+    "Database Internals",
+    "Distributed Systems Design",
+    "Kubernetes",
+    "Large Scale Infrastructure"
+  ],
+
+  funFact: "I think in algorithms and design systems for fun."
 };
 ```
 
 ---
 
-## `$ ls ./tech-stack`
+# 🏆 Achievements
 
-<div align="center">
+🏆 **Winner – Salesforce Futureforce AI Challenge**
 
-**Languages**
+📈 **LeetCode Rating:** ~1950+
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+### 🛡 AI Fraud Detection System (SecureBank)
+
+Built a **Generative AI powered fraud detection system**.
+
+Capabilities
+
+- transaction anomaly detection
+- ML-based fraud scoring
+- LLM explanation of suspicious patterns
+- secure banking analytics dashboard
+
+Tech
+
+```
+Python
+Machine Learning
+Random Forest
+Streamlit
+Generative AI
+```
+
+---
+
+### 🌐 Socket Based Web Server
+
+Low level **HTTP server in C using sockets**.
+
+Features
+
+- HTTP request parsing
+- client IP logging
+- browser metadata extraction
+- CSV logging
+
+Tech
+
+```
+C
+Socket Programming
+Networking
+HTTP Protocol
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend & Web**
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
 
-**Data & Infrastructure**
+### Data & Systems
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devansh-rookie&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-rookie&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-rookie&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## `$ cat ./stats`
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Devansh-rookie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-rookie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-rookie&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-rookie&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&hide_border=true" />
-</div>
-
----
-
-## `$ open ./connect`
+# 🌐 Connect
 
 <div align="center">
 
@@ -81,8 +146,8 @@ const devansh = {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+💡 *"First solve the problem. Then write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
